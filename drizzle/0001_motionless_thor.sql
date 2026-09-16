@@ -1,0 +1,1 @@
+ALTER TABLE `matches` MODIFY COLUMN `startTimeUtc` bigint NOT NULL;
